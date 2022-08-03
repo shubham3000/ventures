@@ -1,0 +1,241 @@
+@media (max-width: 500px) {
+
+    .mt-15 {
+        margin-top: 75px;
+    }
+
+    .row
+    {
+        margin-left: 0  !important;
+    }
+
+    .contact-nav{
+        display: none;
+    }
+
+    .menu-bars
+    {
+        margin-left: 0;
+        font-size: 1.5rem;
+    }
+
+    .navbar-brand img
+    {
+        height: 25px;
+        width: 120px;
+    }
+
+    .nav-text a
+    {
+        font-size: 32px;
+    }
+
+    .top-section
+    {
+        height: 655px !important;
+    }
+
+    .top-section .container-fluid
+    {
+        width: 350px !important;
+    }
+
+    .home-header h1,
+    .our-team--header h1, .partner-header h1
+    {
+        font-size: 40px;
+        line-height: 60px;
+    }
+
+    .fund-header h2, .investment-header h2, .core-header h2, .necessary-header h2, .interaction-header h2, .contact-head h2
+    {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .investment-paragraph p, .core-paragraph p, .necessary-paragrapgh p, .interaction-paragraph p, .team-designation h5, .team-paragraph p
+    ,.fund-topic h3, .core-topic h3, .partner-name h3
+    {
+        font-size: 16px;
+    }
+
+    .ventures-funds .row
+    {
+        row-gap: 15px;
+        margin-top: 2rem !important;
+        row-gap: 25px;
+    }
+
+    .ventures-funds .row .col-sm-12
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .investment-img
+    {
+        padding: 0 !important;
+    }
+
+    .contact-btn button, .read-btn button
+    {
+        padding: 10px 30px;
+        font-weight: 500;
+        font-size: 12px;
+    }
+
+    .InvestmentCompanies,
+    .necessary,
+    .partner
+    {
+        padding: 40px 0 !important;
+    }
+    .necessary
+    {
+        height: auto !important;
+    }
+
+    .footer
+    {
+        padding: 50px 0;
+    }
+
+    .footer .row .col-lg-4
+    {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .footer .row .col-lg-4:nth-child(3){
+        justify-content: center !important;
+    }
+
+    .footer-list ul
+    {
+        padding-left: 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    .footer-list ul li,
+    .contactus .col-lg-7
+    {
+        padding: 0 14px !important;
+    }
+
+    .top-arrow img
+    {
+        width: 120px;
+        height: 80px;
+    }
+
+    .home-paragrapgh p, .necessary-list ul li,
+    .interaction-lps--paragraph p
+    {
+        font-size: 12px;
+    }
+
+    .core .row
+    {
+        row-gap: 20px;
+    }
+
+    .necessary-paragrapgh,
+    .home-paragrapgh
+    {
+        left: 0!important;
+    }
+
+    .necessary-topic h3,
+    .team-name h2
+    {
+        font-size: 25px;
+    }
+
+    .necessary .row
+    {
+        margin-top: 4rem !important;
+        row-gap: 25px;
+    }
+
+    .necessary-box
+    {
+        height: 190px;
+    }
+    
+    .ourteam-img img
+    {
+        height: 370px;
+    }
+
+    .team-designation,
+    .team-paragraph
+    {
+        margin-top: 0 !important;
+    }
+
+    .partner-linkdn i
+    {
+        margin-top: 0;
+        font-size: 20px;
+    }
+
+    .partner-img img {
+        width: 260px;
+        height: 270px;
+    }
+
+    .overlay{
+        width: 100%;
+        height: 140px;
+        position: absolute;
+        top: 0px;
+        left: 0;
+        z-index: 10;
+    }
+
+    .contact-img img
+    {
+        width: 125px;
+        height: 86px;
+    }
+
+    .contactus .col-lg-5
+    {
+        height: 110px !important;
+        margin-bottom: 30px;
+    }
+    
+    .contact-form input
+    {
+        height: 55px;
+    }
+
+    .contact-form button
+    {
+        padding: 16px 150px;
+        font-size: 16px;
+    }
+
+    .interaction-lps
+    {
+        display: contents;
+    }
+
+    .interaction-lps--img img {
+        width: 66px;
+        height: 66px;
+        margin-right: 0;
+    }
+
+    .interaction .col-lg-7
+    {
+        grid-gap: 13px;
+    }
+
+    .interaction .row .col-lg-7{
+        margin-top: 25px;
+    }
+
+}
